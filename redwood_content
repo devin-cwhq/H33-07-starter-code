@@ -1,0 +1,23 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Overlock:wght@700&display=swap');
+body{font-family: 'Lato', sans-serif;
+text-align: center;
+color: white;
+}
+h3{
+	font-family: 'Overlock', cursive;
+	font-size: 28px;
+	margin: 0px;
+	padding-top: 10px;
+}
+p{
+	font-size: 16px;
+	padding: 0px;
+}
+</style>
+
+<h3>Redwood</h3>
+
+<p>Redwoods are the world's tallest trees, reaching heights of over 350 feet. The world's tallest known living tree is Hyperion, which is estimated to be 381 feet tall. </p>
+
+<p>Redwoods are considered climate change heroes because they clean more carbon from the air and store it longer than any other tree</p>
